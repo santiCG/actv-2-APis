@@ -7,7 +7,7 @@
       "species": "Human",
       "gender": "Male",
       "origin": {
-        "name": "Tatooine"
+        "name": "Polis Massa"
       },
       "location": {
         "name": "Tatooine"
@@ -44,6 +44,111 @@
       },
       "image": "https://lumiere-a.akamaihd.net/v1/images/din-djarin-the-mandalorian-main_38344f24.jpeg?region=321%2C68%2C1211%2C1211",
       "url": "https://my-json-server.typicode.com/santicg/actv-2-APis/characters/3"
+    },
+    {
+      "id": 4,
+      "name": "Cassian Andor",
+      "status": "Dead",
+      "species": "Human",
+      "gender": "Male",
+      "origin": {
+        "name": "Kenari"
+      },
+      "location": {
+        "name": "Scariff"
+      },
+      "image": "https://static1.moviewebimages.com/wordpress/wp-content/uploads/article/zvsbIP9f6ua6Ahhc76r1a1z6TBf6Bx.jpg",
+      "url": "https://my-json-server.typicode.com/santicg/actv-2-APis/characters/4"
+    },
+    {
+      "id": 5,
+      "name": "C3PO",
+      "status": "Alive",
+      "species": "Droid",
+      "gender": "-",
+      "origin": {
+        "name": "Tatooine"
+      },
+      "location": {
+        "name": "Coruscant"
+      },
+      "image": "https://tooys.mx/media/catalog/product/cache/39c7ff5a74bd9fa282a021db605b774d/c/3/c3po.jpg",
+      "url": "https://my-json-server.typicode.com/santicg/actv-2-APis/characters/5"
+    },
+    {
+      "id": 6,
+      "name": "Leia Organa",
+      "status": "Alive",
+      "species": "Human",
+      "gender": "Female",
+      "origin": {
+        "name": "Polis Massa"
+      },
+      "location": {
+        "name": "Coruscant"
+      },
+      "image": "https://static.wikia.nocookie.net/swbloodlines/images/d/db/Leia_Organa.jpg/revision/latest?cb=20180321035634",
+      "url": "https://my-json-server.typicode.com/santicg/actv-2-APis/characters/6"
+    },
+    {
+      "id": 7,
+      "name": "Skoova Stev",
+      "status": "Alive",
+      "species": "Sakavian",
+      "gender": "Male",
+      "origin": {
+        "name": "Sakavi Tar"
+      },
+      "location": {
+        "name": "Koboh"
+      },
+      "image": "https://pbs.twimg.com/media/GVA0ccYa4AA_-t3.jpg",
+      "url": "https://my-json-server.typicode.com/santicg/actv-2-APis/characters/7"
+    },
+    {
+      "id": 8,
+      "name": "Darth Vader",
+      "status": "Dead",
+      "species": "Human",
+      "gender": "Male",
+      "origin": {
+        "name": "Tatooine"
+      },
+      "location": {
+        "name": "-"
+      },
+      "image": "https://media.revistagq.com/photos/62a0a996223a33e985e4d59a/4:3/w_1199,h_899,c_limit/1072434_110615-cc-Darth-Vader-Thumb.jpg",
+      "url": "https://my-json-server.typicode.com/santicg/actv-2-APis/characters/8"
+    },
+    {
+      "id": 9,
+      "name": "Ahsoka Tano",
+      "status": "Alive",
+      "species": "Togruta",
+      "gender": "Female",
+      "origin": {
+        "name": "Shili"
+      },
+      "location": {
+        "name": "Lothal"
+      },
+      "image": "https://mediaproxy.salon.com/width/1200/https://media2.salon.com/2020/05/ahsoka-star-wars-clone-wars-still01.jpg",
+      "url": "https://my-json-server.typicode.com/santicg/actv-2-APis/characters/9"
+    },
+    {
+      "id": 10,
+      "name": "Han Solo",
+      "status": "Alive",
+      "species": "Human",
+      "gender": "Male",
+      "origin": {
+        "name": "Corellia"
+      },
+      "location": {
+        "name": "Tatooine"
+      },
+      "image": "https://www.looper.com/img/gallery/this-is-han-solos-best-line-ever/intro-1570025040.jpg",
+      "url": "https://my-json-server.typicode.com/santicg/actv-2-APis/characters/10"
     }
   ]
 }
