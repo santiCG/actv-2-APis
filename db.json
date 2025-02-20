@@ -7,10 +7,10 @@
       "species": "Human",
       "gender": "Male",
       "origin": {
-        "name": "Tatooine",
+        "name": "Tatooine"
       },
       "location": {
-        "name": "Tatooine",
+        "name": "Tatooine"
       },
       "image": "https://img.asmedia.epimg.net/resizer/v2/TVLRIW6H75EYPNO3KBHXFTISDA.jpg?auth=1d2278160753689784a2193684678b480f9df18a8fcb8bfe628520b78f5d0547&width=1200&height=1200&smart=true",
       "url": "https://my-json-server.typicode.com/santicg/actv-2-APis/characters/1"
@@ -22,10 +22,10 @@
       "species": "Human",
       "gender": "Male",
       "origin": {
-        "name": "Braca",
+        "name": "Braca"
       },
       "location": {
-        "name": "Tanalorr",
+        "name": "Tanalorr"
       },
       "image": "https://assetsio.gnwcdn.com/Star-Wars-Jedi-Survivor.png?width=1200&height=1200&fit=crop&quality=100&format=png&enable=upscale&auto=webp",
       "url": "https://my-json-server.typicode.com/santicg/actv-2-APis/characters/2"
@@ -37,10 +37,10 @@
       "species": "Human",
       "gender": "Male",
       "origin": {
-        "name": "Mandalor",
+        "name": "Mandalor"
       },
       "location": {
-        "name": "Mandalor",
+        "name": "Mandalor"
       },
       "image": "https://lumiere-a.akamaihd.net/v1/images/din-djarin-the-mandalorian-main_38344f24.jpeg?region=321%2C68%2C1211%2C1211",
       "url": "https://my-json-server.typicode.com/santicg/actv-2-APis/characters/3"
