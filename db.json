@@ -1,10 +1,10 @@
 {
-  "results": [
+  "characters": [
     {
       "id": 1,
       "name": "Ernesto Perez",
       "status": "Alive",
-      "species": "Human",
+      "species": "Frailejon",
       "gender": "Male",
       "origin": {
         "name": "Earth",
